@@ -23,7 +23,7 @@ MANGO
 # 💻 How to Run
 1. Clone the repository.
   <div style="position: relative; background: #1e1e1e; padding: 1rem; border-radius: 10px;">
-  <pre style="margin: 0; color: #d4d4d4;"><code id="codeBlock">git clone [https://github.com/username/repo-name.git](https://github.com/Niharika-Rawat/WordSearchGenerator.git)
+  <pre style="margin: 0; color: #d4d4d4;"><code id="codeBlock">git clone https://github.com/Niharika-Rawat/WordSearchGenerator.git
 </code></pre>
   <button onclick="navigator.clipboard.writeText(document.getElementById('codeBlock').innerText)" 
           style="position: absolute; top: 10px; right: 10px; background: #0078d7; color: white; border: none; 
