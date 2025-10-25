@@ -1,6 +1,6 @@
 # 🧩 Word Search Generator
 
-A simple Word Search Generator built in C++, capable of creating word searches with randomly placed words in 8 directions.
+A simple Word Search Generator built in C++, capable of creating word searches with randomly placed words in 8 directions. It uses recursive backtracking to place words in the grid while maximizing letter overlaps for compact arrangement. Stops when the best overlap score or word count is achieved within a set time limit, then fills remaining cells randomly.
 
 # 🚀 Features
 - Generate word search puzzles of any size
